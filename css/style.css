@@ -187,6 +187,7 @@ section{
 .home-section{
     display: flex;
     padding: 120px 0;
+    margin-bottom: 150px;
 }
 
 .home-text,
@@ -226,7 +227,9 @@ section{
 
 
 /* --------------------------------------About Section-------------------------- */
-
+.about-section{
+    margin-bottom: 150px;
+}
 .about-img{
     width: 40%;
     padding: 0 15px;
