@@ -1,3 +1,10 @@
+// --------------------------------Toggle Navbar----------------------------------
+
+
+
+
+
+
 // Portfolio item details popup---------------------------------
 
 document.addEventListener('click', (e) =>{
